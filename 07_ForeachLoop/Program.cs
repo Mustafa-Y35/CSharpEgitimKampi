@@ -98,7 +98,6 @@ namespace _07_ForeachLoop
                 double totalExamResult = 0;
 
                 //Her öğrenci için 3 sınav notu girişi
-
                 for(int j = 0; j < 3; j++)
                 {
                     Console.Write($"{studentNames[i]} adlı öğrencinin {j + 1}. sınav notunu giriniz: ");
